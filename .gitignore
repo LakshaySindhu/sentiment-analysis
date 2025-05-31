@@ -1,0 +1,66 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Flask cache
+instance/
+*.pyc
+
+# Output files
+*.out
+*.pdf
+*.log
+
+# API keys and config
+config.json
+secrets.json
+
+# Python egg files
+*.egg-info/
+dist/
+build/
+
+# node_modules if frontend involved
+node_modules/
+
+# Render or deployment artifacts
+*.tar.gz
+*.zip
+
+# Ignore templates/static if mistakenly added
+# (Optional: only if these are generated files, not manually written)
+# templates/
+# static/
+
+# Ignore test coverage files
+.coverage
+htmlcov/
